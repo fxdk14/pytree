@@ -1,9 +1,9 @@
 # Installation
 
-To install the tool, run:
+Run `setup.bat` in the same directory to install:
 
 ```bash
-pip install .
+setup.bat
 ```
 
 # Usage
