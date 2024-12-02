@@ -1,6 +1,6 @@
 # Installation
 
-Run `setup.bat` in the same directory to install:
+Run `setup.bat` to install:
 
 ```bash
 > setup.bat
