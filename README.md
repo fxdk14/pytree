@@ -3,7 +3,7 @@
 Run `setup.bat` in the same directory to install:
 
 ```bash
-setup.bat
+> setup.bat
 ```
 
 # Usage
@@ -11,7 +11,7 @@ setup.bat
 Generate an ASCII tree of the current directory with:
 
 ```bash
-pytree
+> pytree
 ```
 
 ## Options:
