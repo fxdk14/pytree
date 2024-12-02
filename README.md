@@ -1,14 +1,27 @@
-# Install the tool
+# Installation
+
+To install the tool, run:
+
+```bash
 pip install .
+```
 
-# Generate an ASCII tree of the current directory
+# Usage
+
+Generate an ASCII tree of the current directory with:
+
+```bash
 pytree
+```
 
-# Options:
-pytree --exclude-cache       # Exclude cache files
-pytree --max-depth [number]  # Limit tree depth
+## Options:
+
+- ```--exclude-cache``` : Exclude cache files from the tree.
+- ```--max-depth [number]``` : Limit the tree depth.
 
 # Example Output
+
+```plaintext
 [Project]
 ├── src
 │   ├── app.py
@@ -20,4 +33,4 @@ pytree --max-depth [number]  # Limit tree depth
 │   └── test_utils.py
 ├── README.md
 └── requirements.txt
-Tree copied to clipboard.
+```
