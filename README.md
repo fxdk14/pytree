@@ -15,7 +15,7 @@ pytree
 ```
 
 ## Options:
-
+- ```path``` : Directory to generate the tree (default: current).
 - ```--exclude-cache``` : Exclude cache files from the tree.
 - ```--max-depth [number]``` : Limit the tree depth.
 
