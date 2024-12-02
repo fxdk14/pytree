@@ -22,6 +22,7 @@ Generate an ASCII tree of the current directory with:
 # Example Output
 
 ```plaintext
+> pytree
 [Project]
 ├── src
 │   ├── app.py
